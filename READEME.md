@@ -63,3 +63,9 @@ first commit into master
 
 ## prepare second commit on the console for rebase
 ufz ufz ufz
+
+## first commit on byword cherrypick
+not swordfish!
+
+## second commit on cherrypick
+not cherrybomb!
