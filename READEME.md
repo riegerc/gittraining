@@ -60,3 +60,6 @@ ole
 
 ## now we do the rebase on the console
 first commit into master
+
+## prepare second commit on the console for rebase
+ufz ufz ufz
