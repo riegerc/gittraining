@@ -51,3 +51,6 @@ prepare first commit into master
 
 ## add secend commit into master branch
 yes from the console ;P
+
+## first commit into feature3 branch from console
+jarrr
