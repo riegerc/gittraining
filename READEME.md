@@ -57,3 +57,6 @@ jarrr
 
 ## second commit int feature3 branch from el consolero
 ole
+
+## now we do the rebase on the console
+first commit into master
