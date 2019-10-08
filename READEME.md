@@ -13,6 +13,9 @@ some message for this headline<br>
 ## finished merge from feature branch into master branch
 yes it is done...
 
+##now repeat the lesson on the console
+yes we can do that on the console 2
+
 ## git init
 git init<br>
 git add README.md<br>
