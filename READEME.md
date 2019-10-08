@@ -1,9 +1,18 @@
-echo "# gittraining" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/riegerc/gittraining.git
-git push -u origin master
+# gittraining
+## Testfile
+Task:
+create repo
+check out repo
+create 2 branch
+add 2 commit to each branch
+merge the branch
+
+## git init
+git init<br>
+git add README.md<br>
+git commit -m "first commit"<br>
+git remote add origin https://github.com/riegerc/gittraining.git<br>
+git push -u origin master<br>
 
 ## first commit into feature branch
 this my first commit for the feature branch
