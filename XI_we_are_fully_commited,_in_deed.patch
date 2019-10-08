@@ -1,0 +1,18 @@
+Index: READEME.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- READEME.md	(revision 5f349790be625f2306c398deba6bfaa482e4bfa8)
++++ READEME.md	(revision 8dfe22a332ae311e65a0649782ce615cf18b66b8)
+@@ -56,4 +56,7 @@
+ the branch to pick cherries from...
+ 
+ ## YAC @ cherryserve
+-yo man! this commit won't make it, man!
+\ No newline at end of file
++yo man! this commit won't make it, man!
++
++## one more time commit to cherryserve
++with a coherent sentence, or as close it gets anyway...
+\ No newline at end of file
