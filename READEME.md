@@ -85,3 +85,6 @@ with a coherent sentence, or as close it gets anyway...
 
 ##one commit to upload the tag?
 the tag alone is not commited in phpstorm :|
+
+## pusch tag:
+git push origin --tags
