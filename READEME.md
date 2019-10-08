@@ -38,3 +38,6 @@ this my first commit for the feature branch
 
 ## second commit into feature branch
 this is the second commit for the feature branch
+
+## first commit into feature1 branch
+and again from the console (ole)
