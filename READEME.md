@@ -7,6 +7,10 @@ create 2 branch
 add 2 commit to each branch
 merge the branch
 
+## prepare second commit into master branch
+some message for this headline<br>
+
+
 ## git init
 git init<br>
 git add README.md<br>
