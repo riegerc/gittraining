@@ -41,3 +41,6 @@ this is the second commit for the feature branch
 
 ## now add commit int master to rebase
 prepare first commit into master
+
+## add secend commit into master branch
+yes from the console ;P
