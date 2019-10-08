@@ -38,3 +38,6 @@ this my first commit for the feature branch
 
 ## second commit into feature branch
 this is the second commit for the feature branch
+
+## now add commit int master to rebase
+prepare first commit into master
