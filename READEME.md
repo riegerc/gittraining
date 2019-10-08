@@ -45,3 +45,9 @@ and again from the console (ole)
 ## second commit into feature2 branch
 ups got it wrong in the commit before;
 its feature2 not feature1!
+
+## now add commit int master to rebase
+prepare first commit into master
+
+## add secend commit into master branch
+yes from the console ;P
