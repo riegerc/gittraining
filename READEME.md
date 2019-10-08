@@ -54,3 +54,6 @@ yes from the console ;P
 
 ## first commit into feature3 branch from console
 jarrr
+
+## second commit int feature3 branch from el consolero
+ole
