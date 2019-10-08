@@ -39,5 +39,9 @@ this my first commit for the feature branch
 ## second commit into feature branch
 this is the second commit for the feature branch
 
-## first commit into feature1 branch
+## first commit into feature2 branch
 and again from the console (ole)
+
+## second commit into feature2 branch
+ups got it wrong in the commit before;
+its feature2 not feature1!
