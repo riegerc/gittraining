@@ -16,6 +16,9 @@ yes it is done...
 ## add new branch on commit "C":
 git checkout -b feature1 [hash from commit C]
 
+## prepare second commit into feature branch
+this will be the second commit into feature1 branch
+
 ## git init
 git init<br>
 git add README.md<br>
