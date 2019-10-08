@@ -57,3 +57,23 @@ the branch to pick cherries from...
 
 ## YAC @ cherryserve
 yo man! this commit won't make it, man!
+## first commit into feature3 branch from console
+jarrr
+
+## second commit int feature3 branch from el consolero
+ole
+
+## now we do the rebase on the console
+first commit into master
+
+## prepare second commit on the console for rebase
+ufz ufz ufz
+
+## first commit into cherrypick
+byword cherrypick
+
+## second commit into cherrypick
+don't be so picky
+
+## third cherrybomb
+yo man!
