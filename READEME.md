@@ -10,6 +10,8 @@ merge the branch
 ## prepare second commit into master branch
 some message for this headline<br>
 
+## finished merge from feature branch into master branch
+yes it is done...
 
 ## git init
 git init<br>
