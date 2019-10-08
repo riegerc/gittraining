@@ -54,3 +54,6 @@ yes from the console ;P
 
 ## first commit on byword cherrypick
 not swordfish!
+
+## second commit on cherrypick
+not cherrybomb!
