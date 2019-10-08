@@ -20,6 +20,12 @@ yes we can do that on the console 2
 also removed phpstorm ini files from index 
 those file where acendently commited by git add . <-- be ware!
 
+## add new branch on commit "C":
+git checkout -b feature1 [hash from commit C]
+
+## prepare second commit into feature branch
+this will be the second commit into feature1 branch
+
 ## git init
 git init<br>
 git add README.md<br>
