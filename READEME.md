@@ -13,8 +13,12 @@ some message for this headline<br>
 ## finished merge from feature branch into master branch
 yes it is done...
 
-##now repeat the lesson on the console
+## now repeat the lesson on the console
 yes we can do that on the console 2
+
+## add second commit from console on master
+also removed phpstorm ini files from index 
+those file where acendently commited by git add . <-- be ware!
 
 ## git init
 git init<br>
